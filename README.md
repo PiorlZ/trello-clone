@@ -1,4 +1,4 @@
-# Trello Clone ru
+# SmartTaskFlow Trello Clone ru
 
 Это клон Trello, разработанный с использованием **Django Rest Framework**, **React**, **Redis** и **SASS**. Этот проект предоставляет функционал, схожий с Trello, для управления задачами, командами и проектами.
 
